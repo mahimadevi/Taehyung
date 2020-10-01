@@ -3,6 +3,7 @@ Mahima is tatti but she is the boss and she is a bitch
 #include <stdio.h>
 int main()
 {
+//subtract
     long b1, b2=0,b,k;
     int a[5];
     int i = 0, remainder = 0, sum[6];
